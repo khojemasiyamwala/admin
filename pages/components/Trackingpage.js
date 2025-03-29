@@ -67,7 +67,7 @@ const Trackingpage = () => {
               <a href="/home" className={style.logoContainer}>
                 <img src="/images/hlogo.png"></img>
 
-                <img src="/images/glogo.png"></img>
+                <img src="/images/logo.png"></img>
               </a>
             </div>
           </div>

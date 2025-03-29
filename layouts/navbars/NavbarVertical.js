@@ -115,7 +115,7 @@ const NavbarVertical = (props) => {
               style={{
                 height: "50px",
               }}
-              src="/images/glogo.png"
+              src="/images/logo.png"
               alt=""
             />
           </div>
